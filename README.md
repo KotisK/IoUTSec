@@ -5,10 +5,6 @@ Ontology IRI: http://i-lab.aegean.gr/kotis/ontologies/IoUTsec
 
 Ontology proposed prefix: iout
 
-OWL file: http://i-lab.aegean.gr/kotis/ontologies/IoUTsec/IoUTsec.owl
-
-Latest OWL file: http://i-lab.aegean.gr/kotis/ontologies/IoUTsec/IoUTsec_v1.0.2.owl
-
 ![KG](https://github.com/StavrosCaptain/IoUTSec/blob/main/Images/classes_properties_with_relationships.png)
 
 _Figure 1. Example KG representing knowledge related to a cybersecurity scenario in IoUT_
